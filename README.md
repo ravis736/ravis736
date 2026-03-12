@@ -66,18 +66,6 @@ Here are some of the websites and platforms I have developed:
 
 ---
 
-## My Focus
-
-On this GitHub profile, you will find:
-
-* Web development projects
-* Laravel applications
-* WordPress customization examples
-* UI/Frontend practice projects
-* Reusable code snippets
-
----
-
 ## Connect With Me
 
 * GitHub: https://github.com/ravis736

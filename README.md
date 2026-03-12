@@ -1,12 +1,12 @@
-# Hi 👋, I'm Ravi Kumar
+# Hi, I'm Ravi Kumar
 
-💻 **Full Stack Web Developer | PHP, Laravel, WordPress, Shopify & MySQL Specialist**
+**Full Stack Web Developer | PHP, Laravel, WordPress, Shopify & MySQL Specialist**
 
 I am a passionate web developer experienced in building responsive, scalable, and user-friendly websites and web applications. I enjoy turning ideas into real digital products using modern web technologies.
 
 ---
 
-## 🚀 Skills & Technologies
+## Skills & Technologies
 
 **Frontend**
 
@@ -38,7 +38,7 @@ I am a passionate web developer experienced in building responsive, scalable, an
 
 ---
 
-## 💼 What I Build
+## What I Build
 
 * Business Websites
 * E-commerce Websites
@@ -48,7 +48,7 @@ I am a passionate web developer experienced in building responsive, scalable, an
 
 ---
 
-## 🧩 Featured Projects
+## Featured Projects
 
 Here are some of the websites and platforms I have developed:
 
@@ -66,7 +66,7 @@ Here are some of the websites and platforms I have developed:
 
 ---
 
-## 📂 My Focus
+## My Focus
 
 On this GitHub profile, you will find:
 
@@ -78,10 +78,10 @@ On this GitHub profile, you will find:
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 * GitHub: https://github.com/ravis736
 
 ---
 
-⭐ **I’m always learning and building new things in web development.**
+**I’m always learning and building new things in web development.**

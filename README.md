@@ -87,9 +87,9 @@ Here are some of the websites and platforms I have developed:
 ## WORK EXPERIENCE
 
 ┃  
-┃  * **APRIL 2022 – PRESENT**  
+┃   **APRIL 2022 – PRESENT**  
 ┃     Online World Solutions Pvt. Ltd., Delhi  
-┃     **FULL STACK WEB DEVELOPER**  
+┃   **FULL STACK WEB DEVELOPER**  
 ┃     Roles: Sr. Developer, Consultant, Deployment  
 ┃
 

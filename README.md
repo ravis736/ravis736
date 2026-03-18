@@ -138,6 +138,16 @@ Here are some of the websites and platforms I have developed:
 
 ---
 
+## AWARDS
+
+* Online World Solutions, New Delhi
+* Baddi University, Himachal Pradesh
+* Sharda Group of Institutions, Agra
+* Graphic ERA University, Uttarakhand
+* ASA Travel Pvt. Ltd., Uttar Pradesh
+
+---
+
 ## CONNECT WITH ME
 
 * Phone No.: +91-7055545213

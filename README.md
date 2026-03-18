@@ -88,9 +88,34 @@ Here are some of the websites and platforms I have developed:
 
 ┃  
 ┃   **APRIL 2022 – PRESENT**  
-┃     Online World Solutions Pvt. Ltd., Delhi  
+┃     Online World Solutions Pvt. Ltd., New Delhi  
 ┃   **FULL STACK WEB DEVELOPER**  
-┃     Roles: Sr. Developer, Consultant, Deployment  
+┃     Roles as a Sr. Web Developer, Consultant, Technical Support, Redesign, Modify, and Deployment.  
+┃  
+┃   **DECEMBER 2019 - MARCH 2022**  
+┃     Vaayvy Disha Consulting Pvt. Ltd., Ghaziabad  
+┃   **WEB DEVELOPER**  
+┃     Roles as a Web Developer, Consultant, Redesign, and Modify the websites.  
+┃  
+┃   **AUGUST 2017 - NOVEMBER 2019**  
+┃     Global Infoways Pvt. Ltd., Noida  
+┃   **WEB DEVELOPER**  
+┃     Roles as a Web Developer, Redesign and modify the websites.  
+┃  
+┃   **JULY 2015 - JULY 2017**  
+┃     St. Paul’s Sr. Sec. School, Etah  
+┃   **KRA-TEACHING**  
+┃     Taught Computer Science.  
+┃  
+┃   **MAY 2012 - JULY 2015**  
+┃     ASA Travel Pvt. Ltd.  
+┃   **ASSISTANT MANAGER**  
+┃     Roles as ERP & Data Analyst, Operational Lead, and Business Consultant.  
+┃  
+┃   **NOVEMBER 2011 - MARCH 2012**  
+┃     Coaching Institute  
+┃   **KRA-TEACHING**  
+┃     Taught Computer Science.  
 ┃
 
 ---

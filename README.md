@@ -48,7 +48,7 @@ If you’re looking for someone who can independently handle challenges, elevate
 
 **Specialization**
 
-* Website Deployment & Hosting Setup
+* Website Development, Hosting Setup & Deployment
 * Domain Configuration
 * Website Optimization
 * Responsive Web Design

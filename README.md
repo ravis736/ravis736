@@ -12,7 +12,7 @@ If you’re looking for someone who can independently handle challenges, elevate
 
 ---
 
-## Skills & Technologies
+## SKILLS & TECHNOLOGIES
 
 **Frontend**
 
@@ -55,7 +55,7 @@ If you’re looking for someone who can independently handle challenges, elevate
 
 ---
 
-## What I Build
+## WHAT I BUILD
 
 * Business Websites
 * E-commerce Websites
@@ -65,7 +65,7 @@ If you’re looking for someone who can independently handle challenges, elevate
 
 ---
 
-## Featured Projects
+## FEATURED PROJECTS
 
 Here are some of the websites and platforms I have developed:
 
@@ -84,7 +84,17 @@ Here are some of the websites and platforms I have developed:
 
 ---
 
-## Connect With Me
+## WORK EXPERIENCE
+
+* APRIL 2022 - PRESENT
+  Online World Solutions Pvt. Ltd., Delhi
+  FULL STACK WEB DEVELOPER
+  Roles as Sr. Web Developer, Consultant, Technical Support,
+  Redesign, Modify, and Deployment.
+
+---
+
+## CONNECT WITH ME
 
 * Phone No.: +91-7055545213
 * Email: ravis736@gmail.com

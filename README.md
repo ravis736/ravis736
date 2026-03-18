@@ -6,7 +6,7 @@ I don’t just build websites, I engineer digital experiences that perform, scal
 
 With 14+ years of experience, I take full ownership of the development lifecycle, transforming raw ideas into refined, high-impact products.
 
-My expertise spans HTML, CSS, JavaScript, PHP, LARAVEL, Node.js, WordPress, Shopify, Bootstrap, PUG, Postman, MySQL, Excel, UIPath RPA, Construct, GitHub, Jira, Web Hosting Setup, and AI-Driven Development workflows, enabling me to deliver solutions that are not only technically robust but also strategically aligned with business growth.
+My expertise spans modern web technologies and AI-driven development workflows, enabling me to deliver solutions that are not only technically robust but also strategically aligned with business growth.
 
 If you’re looking for someone who can independently handle challenges, elevate your tech standards, and build systems that truly make an impact, you’re looking at the right person.
 

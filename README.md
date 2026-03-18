@@ -1,8 +1,14 @@
 # Hi, I'm Ravi Kumar
 
-**Full Stack Web Developer | PHP, Laravel, WordPress, Shopify & MySQL Specialist**
+**FULL STACK WEB DEVELOPER | IMPLEMENTATION ENGINEER | BUSINESS TRANSFORMATION EXPERT | DELIVERY STRATEGIST**
 
-I am a passionate web developer experienced in building responsive, scalable, and user-friendly websites and web applications. I enjoy turning ideas into real digital products using modern web technologies.
+I don’t just build websites, I engineer digital experiences that perform, scale, and convert.
+
+With 14+ years of experience, I take full ownership of the development lifecycle, transforming raw ideas into refined, high-impact products.
+
+My expertise spans HTML, CSS, JavaScript, PHP, LARAVEL, Node.js, WordPress, Shopify, Bootstrap, PUG, Postman, MySQL, Excel, UIPath RPA, Construct, GitHub, Jira, Web Hosting Setup, and AI-Driven Development workflows, enabling me to deliver solutions that are not only technically robust but also strategically aligned with business growth.
+
+If you’re looking for someone who can independently handle challenges, elevate your tech standards, and build systems that truly make an impact, you’re looking at the right person.
 
 ---
 
@@ -31,10 +37,21 @@ I am a passionate web developer experienced in building responsive, scalable, an
 
 **Other Skills**
 
-* Website deployment & hosting setup
-* Domain configuration
-* Website optimization
-* Responsive web design
+* PUG
+* POSTMAN
+* UIPath RPA
+* Construct
+* GitHub
+* Jira
+* Prompt Engineering
+* AI Solutions Architect
+
+**Specialization**
+
+* Website Deployment & Hosting Setup
+* Domain Configuration
+* Website Optimization
+* Responsive Web Design
 
 ---
 
@@ -52,23 +69,27 @@ I am a passionate web developer experienced in building responsive, scalable, an
 
 Here are some of the websites and platforms I have developed:
 
-* Restaurant Website
+* Restaurant
 * News & Media Portal
-* E-commerce Website
-* Real Estate Website
-* Marriage / Matrimonial Website
-* Temple Trustee Website
-* Textile Industry Website
-* Unisex Salon Website
-* Furniture Industry Website
-* Event Organizer Website
-* Portfolio Website
+* E-commerce
+* Real Estate
+* Marriage / Matrimonial
+* Digital Temple Management System
+* Files Directory System
+* Textile Industry
+* Unisex Salon
+* Furniture Industry
+* Event Organizer
+* Portfolio
 
 ---
 
 ## Connect With Me
 
+* Phone No.: +91-7055545213
+* Email: ravis736@gmail.com
 * GitHub: https://github.com/ravis736
+* LinkedIn: https://www.linkedin.com/in/ravi-kumar-6594383b
 
 ---
 

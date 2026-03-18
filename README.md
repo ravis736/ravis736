@@ -120,6 +120,24 @@ Here are some of the websites and platforms I have developed:
 
 ---
 
+## EDUCATION
+
+┃  
+┃   **2007 - 2011**   
+┃   **BACHELOR OF TECHNOLOGY**  
+┃     CCS University  
+┃  
+┃   **2007**   
+┃   **INTERMEDIATE**  
+┃     UP Board  
+┃  
+┃   **2005**  
+┃   **HIGHSCHOOL**  
+┃     CBSE Board  
+┃  
+
+---
+
 ## CONNECT WITH ME
 
 * Phone No.: +91-7055545213

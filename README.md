@@ -1,18 +1,16 @@
-# Hi, I'm Ravi Kumar
+# Hi there, I'm Ravi Kumar
 
-**FULL STACK WEB DEVELOPER | IMPLEMENTATION ENGINEER | BUSINESS TRANSFORMATION EXPERT | DELIVERY STRATEGIST | GENERATIVE AI SPECIALIST**
+**Full Stack Web Developer | MERN Stack | PHP | WordPress | Shopify | AI Workflows**
 
-I don’t just build websites, I engineer digital experiences that perform, scale, and convert.
+I build scalable, modern, and performance-focused web applications.
 
-With 10+ years of experience, I take full ownership of the development lifecycle, transforming raw ideas into refined, high-impact products.
+With experience in full-stack development, deployment, optimization, and CMS platforms, I help transform ideas into production-ready digital products.
 
-My expertise spans modern web technologies and AI-driven development workflows, enabling me to deliver solutions that are not only technically robust but also strategically aligned with business growth.
-
-If you’re looking for someone who can independently handle challenges, elevate your tech standards, and build systems that truly make an impact, you’re looking at the right person.
+I work across frontend, backend, databases, hosting, deployment, and AI-assisted development workflows.
 
 ---
 
-## SKILLS & TECHNOLOGIES
+## Tech Stack
 
 **Frontend**
 
@@ -26,8 +24,8 @@ If you’re looking for someone who can independently handle challenges, elevate
 
 * PHP
 * Laravel
-* Node
-* Express
+* Node.js
+* Express.js
 
 **CMS & Platforms**
 
@@ -39,14 +37,14 @@ If you’re looking for someone who can independently handle challenges, elevate
 * MySQL
 * MongoDB
 
-**Other Skills**
+**Tools & Technologies**
 
-* PUG
-* POSTMAN
+* Git & GitHub
+* Postman
+* Jira
+* Pug
 * UIPath RPA
 * Construct
-* GitHub
-* Jira
 * Prompt Engineering
 * AI Solutions Architect
 
@@ -59,100 +57,95 @@ If you’re looking for someone who can independently handle challenges, elevate
 
 ---
 
-## WHAT I BUILD
+## What I Build
 
 * Business Websites
 * E-commerce Websites
+* News & Media Portals
 * WordPress & Shopify Stores
 * Custom Applications
 * Responsive Landing Pages
+* Admin Dashboards
+* SEO-Friendly Websites
 
 ---
 
-## FEATURED PROJECTS
+## Featured Project Categories
 
 Here are some of the websites and platforms I have developed:
 
-* Restaurant
-* News & Media Portal
+* Restaurant Websites
+* News & Media Platforms
 * E-commerce
-* Real Estate
-* Marriage / Matrimonial
-* Digital Temple Management System
-* Files Directory System
-* Textile Industry
-* Unisex Salon
-* Furniture Industry
-* Event Organizer
-* Portfolio
+* Real Estate Websites
+* Matrimonial Platforms
+* Temple Management Systems
+* Directory Systems
+* Textile Industry Solutions
+* Unisex Salon Websites
+* Furniture Business Websites
+* Event Management Platforms
+* Portfolio Websites
 
 ---
 
-## WORK EXPERIENCE
+## Work Experience
 
 ┃  
-┃   **APRIL 2022 – PRESENT**  
+┃   **April 2022 – Present**  
 ┃     Online World Solutions Pvt. Ltd., New Delhi  
-┃   **FULL STACK WEB DEVELOPER**  
+┃   **Full Stack Web Developer**  
 ┃     Roles as a Sr. Web Developer, Consultant, Technical Support, Redesign, Modify, and Deployment.  
 ┃  
-┃   **DECEMBER 2019 - MARCH 2022**  
+┃   **December 2019 - March 2022**  
 ┃     Vaayvy Disha Consulting Pvt. Ltd., Ghaziabad  
 ┃   **WEB DEVELOPER**  
 ┃     Roles as a Web Developer, Consultant, Redesign, and Modify the websites.  
 ┃  
 ┃   **AUGUST 2017 - NOVEMBER 2019**  
 ┃     Global Infoways Pvt. Ltd., Noida  
-┃   **WEB DEVELOPER**  
+┃   **Web Developer**  
 ┃     Roles as a Web Developer, Redesign and modify the websites.  
 ┃  
-┃   **JULY 2015 - JULY 2017**  
+┃   **July 2015 - July 2017**  
 ┃     St. Paul’s Sr. Sec. School, Etah  
-┃   **KRA-TEACHING**  
+┃   **KRA-Teaching**  
 ┃     Taught Computer Science.  
 ┃  
-┃   **MAY 2012 - JULY 2015**  
+┃   **May 2012 - July 2015**  
 ┃     ASA Travel Pvt. Ltd.  
-┃   **ASSISTANT MANAGER**  
+┃   **Assistant ManagerR**  
 ┃     Roles as ERP & Data Analyst, Operational Lead, and Business Consultant.  
 ┃  
-┃   **NOVEMBER 2011 - MARCH 2012**  
+┃   **November 2011 - March 2012**  
 ┃     Coaching Institute  
-┃   **KRA-TEACHING**  
+┃   **KRA-Teaching**  
 ┃     Taught Computer Science.  
 ┃
 
 ---
 
-## EDUCATION
+## Education
 
-┃  
-┃   **2007 - 2011**   
-┃   **BACHELOR OF TECHNOLOGY**  
-┃     CCS University  
-┃  
-┃   **2007**   
-┃   **INTERMEDIATE**  
-┃     UP Board  
-┃  
-┃   **2005**  
-┃   **HIGHSCHOOL**  
-┃     CBSE Board  
-┃  
+* B.Tech – CCS University
+* Intermediate – UP Board
+* High School – CBSE Board 
 
 ---
 
-## AWARDS
+## Recognition
 
-* Online World Solutions, New Delhi
-* Baddi University, Himachal Pradesh
-* Sharda Group of Institutions, Agra
-* Graphic ERA University, Uttarakhand
-* ASA Travel Pvt. Ltd., Uttar Pradesh
+Received appreciation and recognition from multiple organizations and institutions, including:
+
+* Online World Solutions
+* Baddi University
+* Sharda Group of Institutions
+* Graphic ERA University
+* ASA Travel Pvt. Ltd.
 
 ---
 
-## CONNECT WITH ME
+## Connect With Me
 
 * Phone No.: +91-7055545213
 * Email: ravis736@gmail.com

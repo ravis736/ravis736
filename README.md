@@ -1,6 +1,6 @@
 # Hi there, I'm Ravi Kumar
 
-**Full Stack Web Developer | MERN Stack | PHP | WordPress | Shopify | AI Workflows**
+**Full Stack Web Developer | MERN Stack | PHP | Laravel | WordPress | Shopify | AI Workflows**
 
 I build scalable, modern, and performance-focused web applications.
 

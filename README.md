@@ -4,7 +4,7 @@
 
 I don’t just build websites, I engineer digital experiences that perform, scale, and convert.
 
-With 14+ years of experience, I take full ownership of the development lifecycle, transforming raw ideas into refined, high-impact products.
+With 10+ years of experience, I take full ownership of the development lifecycle, transforming raw ideas into refined, high-impact products.
 
 My expertise spans modern web technologies and AI-driven development workflows, enabling me to deliver solutions that are not only technically robust but also strategically aligned with business growth.
 
@@ -20,11 +20,14 @@ If you’re looking for someone who can independently handle challenges, elevate
 * CSS3
 * JavaScript
 * Bootstrap
+* React
 
 **Backend**
 
 * PHP
 * Laravel
+* Node
+* Express
 
 **CMS & Platforms**
 
@@ -34,6 +37,7 @@ If you’re looking for someone who can independently handle challenges, elevate
 **Database**
 
 * MySQL
+* MongoDB
 
 **Other Skills**
 
@@ -60,7 +64,7 @@ If you’re looking for someone who can independently handle challenges, elevate
 * Business Websites
 * E-commerce Websites
 * WordPress & Shopify Stores
-* Custom Laravel Applications
+* Custom Applications
 * Responsive Landing Pages
 
 ---
